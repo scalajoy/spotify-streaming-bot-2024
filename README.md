@@ -37,3 +37,6 @@ Stay ahead of the game with our powerful, optimized streaming tool!
 
 ## 🎥 Video
 Check out the tool in action on [YouTube](https://www.youtube.com/watch?v=GulNx-ylYAM) for a full demo and walkthrough.
+
+![Screenshot_1](https://github.com/user-attachments/assets/cd1647b0-5f64-4b3a-91b5-82632a34ee49)
+
